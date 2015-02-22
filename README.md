@@ -3,6 +3,8 @@ Course Project Repository for Getting and Cleaning Data
 
 
 ------code logic--------
+
+
 This is a course project for Getting and Cleaning Data on Cousera
 
 as required in the project, for step 1, I downloaded the training and test data set and combine X_train and X_test 
@@ -19,6 +21,7 @@ step 4, descriptive variable names are applied manually to each columns, measure
 
 
 -----How the code works---------
+
 To make the code work, you need to place the unzipped source data folder(do not rename the folder otherwise the code will fail to work)
 placed in the same directory of code file. 
 
