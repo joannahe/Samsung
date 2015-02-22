@@ -27,6 +27,6 @@ placed in the same directory of code file.
 
 I did not download the file in the code as it might be slow and that is the case for me. 
 
-if you do not have the source data in your computer, you can download unzipped file along with my code from my github alternatively.
+
 
 
